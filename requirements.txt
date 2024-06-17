@@ -48,7 +48,6 @@ pyodbc==5.1.0
 pypng==0.20220715.0
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
-pypiwin32==223
 pyzmq==26.0.3
 qrcode==7.4.2
 referencing==0.35.1

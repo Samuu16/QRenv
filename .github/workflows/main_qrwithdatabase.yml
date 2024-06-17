@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'QRwithDatabase'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7D6470AC1064466C82B48FEF6EFC5B61 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AD1678C6B58E448696206EC01D20B0F0 }}
